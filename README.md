@@ -10,3 +10,4 @@
 #### [Лекция 3.Программная платформа Hadoop. Распределенная файловая система HDFS.](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/92da85333e067ea34e2b6b55e8f5449a57d4f52d/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.%20Hadoop_HDFS.pdf)
 #### [Лекция 4.Программная платформа Hadoop. Планировщик ресурсов YARN.](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/3e1b529b8ef1756371b95ed7e7034db7268ee1bc/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.%20Hadoop_Yarn.pdf)
 #### [Лекция 5.Программная платформа Hadoop. Hadoop_MapReduce.](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/c59bc23cf6a3235613a65f201efc1f29b014ab87/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%205.%20Hadoop_MapReduce.pdf)
+#### [Лекция 6. Apache Spark (Введение).](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/c59bc23cf6a3235613a65f201efc1f29b014ab87/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%205.%20Hadoop_MapReduce.pdf)
