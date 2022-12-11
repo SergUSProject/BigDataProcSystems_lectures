@@ -15,3 +15,4 @@
 #### [Лекция 8. Apache Spark Streaming.](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/90c96c65aa648c03f8b9f404a36204644a98d15c/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%208.%20Apache%20Spark%20Streaming.pdf)
 #### [Лекция 9. Apache Spark Structured Streaming.](https://github.com/SergUSProject/BigDataProcSystems_lectures/blob/70f29983af3e2677620015108e52559f8134992d/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.%20Apache%20Spark%20Structured%20Streaming.pdf)
 #### [Лекция 10. Apache Spark. User-Defined Function (UDF).](Лекция%2010.%20Apache%20Spark.%20User-Defined%20Function%20(UDF).pdf)
+#### [Лекция 11. Сбор данных на потоке. Apache Кafka.](Лекция%2011.%20AСбор%20данных%20на%20потоке%20Apache%20Kafka.pdf)
